@@ -1,0 +1,1 @@
+// The minimum number of functions present in any C++ program is: 1
